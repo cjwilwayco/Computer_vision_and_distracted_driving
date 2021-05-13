@@ -1,6 +1,6 @@
-# Distracted Driving 
+# Distracted Driving Detection
 
-## Using Data Science to predict Distracted Drivers
+## Using Convolutional Neural Networks (CNN) to classify distracted drivers
 
 ## Table of Contents
 
